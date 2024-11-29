@@ -1,0 +1,72 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    color: #393d41;
+    font-size: 1.2rem;
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.65;
+}
+h1{
+    color: #25a2c3;
+    font-family: "Montserrat", serif;
+    font-weight: bold;
+    font-size: larger;
+    line-height: 1.65;
+}
+header{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+nav{
+    background-image: url("../images/banner.jpg");
+    text-align: center;
+    font-size: 2em;
+    padding: 20px;
+}
+button{
+    background-color: #f04c2f ;
+    color: white;
+    text-transform: uppercase;
+    font-family: "Montserrat", serif;
+    font-size: 1em;
+    font-weight: bold;
+    border-color: #f04c2f;
+}
+main{
+    text-align: center;
+    font-size: 2rem;
+}
+h4{
+    color: #25a2c3; 
+    font-family: "Montserrat", serif;
+    font-weight: bold;
+    font-size: larger;
+}
+#notebook{
+    border-radius: 50%;
+}
+.testimonianza{
+    background-color: #e22d0e;
+    color: white;
+}
+h2{
+    color: white;
+    font-family: "Montserrat", serif;
+    font-weight: bold;
+    font-size: larger;
+}
+footer{
+    background-color: #c8e7f0;
+    text-align: center;
+    color: white;
+}
+a{
+    color: white;
+}
+#sezione1{
+    border: -20px;
+}
+
+
