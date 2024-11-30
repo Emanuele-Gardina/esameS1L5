@@ -60,18 +60,22 @@ h4{
     color: white;
     padding: 40px;
 }
-h2{
-    color: white;
-    font-family: "Montserrat", serif;
-    font-weight: bold;
-    font-size: larger;
-}
 footer{
     background-color: #c8e7f0;
     text-align: center;
     color: white;
     padding: 50px;
+    font-size: large;
+}
+h2{
+    color: white;
+    font-family: "Montserrat", serif;
+    font-weight: bold;
     font-size: larger;
+    
+}
+.contattaci{
+    font-size: xx-large;
 }
 a{
     color: white;
@@ -80,5 +84,3 @@ div img{
     width: 425px;
     height: 250px;
 }
-
-
